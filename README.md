@@ -70,7 +70,7 @@ Calculator app (iOS Style) for High-Phone script (buyable at http://high-scripts
 
 4. Add the `calculator.css` file in the folder `high_phone\html\css\`
 5. Add the `calculator.js` file in the folder `high_phone\html\js\`
-6. Add the `calculator.png` file in the folder `high_phone\html\media\icons`
+6. Add the `calculator.png` file in the folder `high_phone\html\media\icons\`
 7. Restart and you're done !
 
 # Copyrights
