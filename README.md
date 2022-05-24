@@ -73,6 +73,6 @@ Calculator app (iOS Style) for High-Phone script (buyable at http://high-scripts
 6. Restart and you're done ! 
 
 # Copyrights
-@ 2022 xPiwel (http://dp-store.tebex.io/). Coded with love.
+@ 2022 xPiwel (http://dp-store.tebex.io/). Coded with love. NON AFFIALIATED TO HIGH-SCRIPTS.COM 
 
 high-phone from high-scripts (http://high-scripts.com/) 2021-2022. All rights reserved. Leaking or redistributing our products without our permission is prohibted and will get you banned from our Tebex shop and access to products revoked and your money will not be refunded!
