@@ -68,10 +68,15 @@ Calculator app (iOS Style) for High-Phone script (buyable at http://high-scripts
     <script type="text/javascript" src="js/calculator.js"></script>
 ```
 
-4. Add the `calculator.css` file in the folder `high_phone\html\css\`
-5. Add the `calculator.js` file in the folder `high_phone\html\js\`
-6. Add the `calculator.png` file in the folder `high_phone\html\media\icons\`
-7. Restart and you're done !
+4. Add this line in the <head> of the index.html (located in `high_phone\html\`):
+```html
+    <link rel="stylesheet" href="css/calculator.css">
+```
+
+5. Add the `calculator.css` file in the folder `high_phone\html\css\`
+6. Add the `calculator.js` file in the folder `high_phone\html\js\`
+7. Add the `calculator.png` file in the folder `high_phone\html\media\icons\`
+8. Restart and you're done !
 
 # Copyrights
 @ 2022 xPiwel (http://dp-store.tebex.io/). Coded with love. NON AFFIALIATED TO HIGH-SCRIPTS.COM. Researched online for javascript functions. 
