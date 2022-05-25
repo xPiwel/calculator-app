@@ -69,7 +69,7 @@ Calculator app (iOS Style) for High-Phone script (buyable at http://high-scripts
     <script type="text/javascript" src="js/calculator.js"></script>
 ```
 
-4. Add this line in the <head> of the index.html (located in `high_phone\html\`):
+4. Add this line in the `<head>` (you can locate the other css integrations and paste it at the same place) of the index.html (located in `high_phone\html\`):
 ```html
     <link rel="stylesheet" href="css/calculator.css">
 ```
