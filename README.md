@@ -1,5 +1,6 @@
 # calculator-app
 Calculator app (iOS Style) for High-Phone script (buyable at http://high-scripts.com/)
+Made by xPiwel from Deep-Scripts (https://deep-scripts.com), realistic FiveM Scripts ! (Partnered with high-scripts https://discord.com/channels/898526244428189818/917505799402684476/1016635811929788427) 
 
 # Installation
 
@@ -80,6 +81,6 @@ Calculator app (iOS Style) for High-Phone script (buyable at http://high-scripts
 8. Restart and you're done !
 
 # Copyrights
-@ 2022 xPiwel (http://dp-store.tebex.io/). Coded with love. NON AFFIALIATED TO HIGH-SCRIPTS.COM. Researched online for javascript functions. 
+@ 2022 xPiwel (https://deep-scripts.com). Coded with love. NON AFFIALIATED TO HIGH-SCRIPTS.COM. Researched online for javascript functions. 
 
 high-phone from high-scripts (http://high-scripts.com/) 2021-2022. All rights reserved. Leaking or redistributing our products without our permission is prohibted and will get you banned from our Tebex shop and access to products revoked and your money will not be refunded!
