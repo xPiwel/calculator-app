@@ -4,8 +4,6 @@ Made by xPiwel from Deep-Scripts (https://deep-scripts.com), realistic FiveM Scr
 
 # Installation
 
-[<p align="center"><img src="https://img.shields.io/github/downloads/xPiwel/calculator-app/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xPiwel/calculator-app/releases)</p>
-
 1. Add the new app to the config.js (located in `high_phone\html\js\config.js`) in the function `Config.Applications`
 ```js
     "Calculator": {
